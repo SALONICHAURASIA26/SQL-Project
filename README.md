@@ -1,2 +1,4 @@
 # PostgreSQL Practice Project
-SQL project repository contains all basic to advance queries of SQL.
+
+##Overview
+This SQL project contains SQL queries covering beginner to intermediate PostgreSQL concepts using a retail sales dataset.
