@@ -8,3 +8,5 @@ This SQL project contains SQL queries covering beginner to intermediate PostgreS
 - WHERE
 - ORDER BY
 - LIMIT
+
+updated using Git
