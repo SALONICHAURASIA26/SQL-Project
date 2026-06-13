@@ -9,4 +9,4 @@ This SQL project contains SQL queries covering beginner to intermediate PostgreS
 - ORDER BY
 - LIMIT
 
-updated using Git
+
