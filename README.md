@@ -33,6 +33,5 @@
 - Structuring a project for clarity and reusability
 
 ---
----
 **Author:** Saloni Chaurasia  
 **Connect:** [LinkedIn](https://www.linkedin.com/in/saloni-chaurasia3)
