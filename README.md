@@ -19,10 +19,11 @@
 
 ## 🚀 How to Use
 
-1. Clone this repository
-2. Load the dataset from the `Dataset/` folder into PostgreSQL
-3. Run `01_table_creation.sql` first to set up the schema
-4. Execute the remaining `.sql` files in order to follow the topic progression
+1. Clone this repository or download the ZIP
+2. Open **pgAdmin** and create a new database
+3. Import the dataset from the `Dataset/` folder into your database (right-click database → Query Tool, or use pgAdmin's Import/Export feature for CSVs)
+4. Open `01_table_creation.sql` in pgAdmin's Query Tool and run it first to set up the schema
+5. Run the remaining `.sql` files in order (02 → 14) to follow the topic-wise progression
 
 ## 📌 Skills Demonstrated
 
@@ -32,7 +33,6 @@
 - Structuring a project for clarity and reusability
 
 ---
+---
 **Author:** Saloni Chaurasia  
-**Connect:** linkedin.com/in/saloni-chaurasia3
-
-
+**Connect:** [LinkedIn](https://www.linkedin.com/in/saloni-chaurasia3)
